@@ -40,10 +40,10 @@
 	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
-<br>
+<br><br><br>
  
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=wkdckd41&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true" width=49.2% />
+  <img src="https://github-readme-stats.vercel.app/api?username=wkdckd41&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true" width=70% />
 </a>
  
 
@@ -55,7 +55,7 @@
 !-->
 <br><br><br>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=wkdckd41&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width=98%/>
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=wkdckd41&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width=70%/>
 </a>
 
 
