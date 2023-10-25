@@ -48,15 +48,7 @@
  
 
 
- <!--
- <a href="https://github.com/wkdckd41/github-stats">
- <img src="https://raw.githubusercontent.com/wkdckd41/github-stats/output/generated/languages.svg" width=49.2% />
-</a>
-!-->
-<br><br><br>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=wkdckd41&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width=70%/>
-</a>
+
 
 
 <br><br><br>
